@@ -1,0 +1,14 @@
+# gitignore file 
+**/.git/
+**/.vs/
+**/__vm/
+**/*.filters
+**/*.vcxproj
+
+
+# Add particular file or file patterns here to ignore or not ignore.
+
+*.filters
+*.vcxproj
+*.h
+*.sln
